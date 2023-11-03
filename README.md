@@ -13,7 +13,7 @@ The findings and conclusions of this report are those of the authors and do not 
 
 Scripts to reproduce each figure are located in `rscripts/`. 
 
-Equations and parameters for the baseline model are given in `rscripts/eqns.R` an `rscripts/parameters.R`, respectively.
+Equations and parameters for the baseline model are given in `rscripts/eqns.R` and `rscripts/parameters.R`, respectively.
 
 
 ### Additional information
