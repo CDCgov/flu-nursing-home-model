@@ -2,7 +2,7 @@
 
 This repository contains code required to reproduce results from the following paper:
 
-Sinead E. Morris\*, Casey M. Zipfel\*, Komal Peer, Zachary J. Madewell, Stephan Brenner, Shikha Garg, Prabasaj Paul, Rachel B. Slayton, Matthew Biggerstaff. Modeling the impacts of antiviral prophylaxis strategies in mitigating seasonal influenza outbreaks in nursing homes. *Clinical Infectious Diseases* 2023; DOI 10.1093/cid/ciad764.
+SE Morris\*, CM Zipfel\*, K Peer, ZJ Madewell, S Brenner, S Garg, P Paul, RB Slayton, M Biggerstaff. Modeling the impacts of antiviral prophylaxis strategies in mitigating seasonal influenza outbreaks in nursing homes. *Clinical Infectious Diseases* 2023; DOI 10.1093/cid/ciad764.
 
 \*Contributed equally
 
